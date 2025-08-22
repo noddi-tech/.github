@@ -1,12 +1,25 @@
-## Hi there 👋
+# Noddi Technologies 🚗✨
 
-<!--
+Welcome to Noddi Technologies, a trailblazer in car maintenance technology! We're here to transform how you care for your vehicle. 🌟
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Noddi is a disruptor in automotive maintenance! 💥 We focus on creating awesome booking experiences and logistics automation to bring professional car maintenance services right to your doorstep. 🏠 From wheel changes to car detailing, we deliver top-notch services at the same prices you'd pay at a traditional garage. 💸
+
+We're revolutionizing the automotive industry by developing cutting-edge solutions to streamline car maintenance and enhance vehicle performance. Our mission is to empower car owners and service providers with innovative tools and technologies that make vehicle care smarter, faster, and more efficient.
+
+## Our Vision
+
+We envision a world where car maintenance is seamless, data-driven, and accessible to everyone. By leveraging advanced diagnostic, we aim to redefine how vehicles are maintained, ensuring safety, reliability, and sustainability on the road.
+
+## Contact Us
+
+Have questions or ideas? Reach out to us:
+
+📧 Email: hei@noddi.no
+
+🌐 Website: [noddi.tech](https://noddi.tech/)
+
+💬 LinkedIn: [Noddi](https://www.linkedin.com/company/nodditechnologies)
+
+Let’s drive the future of car maintenance together! 🚘💨
