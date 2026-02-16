@@ -1,10 +1,10 @@
-# Noddi Technologies 🚗✨
+# Navio Solutions 🚗✨
 
-Welcome to Noddi Technologies, a trailblazer in car maintenance technology! We're here to transform how you care for your vehicle. 🌟
+Welcome to Navio Solutions, a trailblazer in car maintenance technology! We're here to transform how you care for your vehicle. 🌟
 
 ## About Us
 
-Noddi is a disruptor in automotive maintenance! 💥 We focus on creating awesome booking experiences and logistics automation to bring professional car maintenance services right to your doorstep. 🏠 From wheel changes to car detailing, we deliver top-notch services at the same prices you'd pay at a traditional garage. 💸
+Navio is a disruptor in automotive maintenance! 💥 We focus on creating awesome booking experiences and logistics automation to bring professional car maintenance services right to your doorstep. 🏠 From wheel changes to car detailing, we deliver top-notch services at the same prices you'd pay at a traditional garage. 💸
 
 We're revolutionizing the automotive industry by developing cutting-edge solutions to streamline car maintenance and enhance vehicle performance. Our mission is to empower car owners and service providers with innovative tools and technologies that make vehicle care smarter, faster, and more efficient.
 
@@ -18,8 +18,8 @@ Have questions or ideas? Reach out to us:
 
 📧 Email: hei@noddi.no
 
-🌐 Website: [noddi.tech](https://noddi.tech/)
+🌐 Website: [naviosolutions.com](https://naviosolutions.com/en/)
 
-💬 LinkedIn: [Noddi](https://www.linkedin.com/company/nodditechnologies)
+💬 LinkedIn: [Navio](https://www.linkedin.com/company/naviomobility)
 
 Let’s drive the future of car maintenance together! 🚘💨
