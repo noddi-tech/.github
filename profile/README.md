@@ -16,10 +16,10 @@ We envision a world where car maintenance is seamless, data-driven, and accessib
 
 Have questions or ideas? Reach out to us:
 
-📧 Email: hei@noddi.no
+📧 [hei@noddi.no](mailto:hei@noddi.no)
 
-🌐 Website: [naviosolutions.com](https://naviosolutions.com/en/)
+🌐 [naviosolutions.com](https://naviosolutions.com/en/)
 
-💬 LinkedIn: [Navio](https://www.linkedin.com/company/naviomobility)
+💬 [LinkedIn](https://www.linkedin.com/company/naviomobility)
 
 Let’s drive the future of car maintenance together! 🚘💨
